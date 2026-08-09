@@ -1,0 +1,7 @@
+prefix=/home/user/Downloads/MLproject/myenv
+includedir=${prefix}/include
+ 
+Name: PresentProto
+Description: Present extension headers
+Version: 1.4
+Cflags: -I${includedir}
